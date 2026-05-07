@@ -1,18 +1,112 @@
-# React + Vite
+# 🎮 Sudoku Master
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium modern Sudoku web application built using React + Vite with a beautiful UI, dark mode, timer system, hints, undo functionality, responsive design, and multiple difficulty levels.
 
-Currently, two official plugins are available:
+## 🌍 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Play Sudoku Master Live](https://sudoku-master-rouge.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## ✨ Features
 
-Note: This will impact Vite dev & build performances.
+- 🎯 Easy, Medium, and Hard difficulty levels
+- 🌙 Dark / Light Mode
+- ⏱️ Real-time game timer
+- 💡 Smart Hint System
+- ↩️ Undo Moves
+- 🧽 Erase Functionality
+- 🎉 Win Modal Popup
+- ⏸️ Pause / Resume System
+- 📱 Fully Responsive Design
+- 💾 Auto Save Progress using LocalStorage
+- 🔢 Remaining Number Counter
+- 🎨 Premium Modern UI
+- 🔥 Same Number Highlighting
+- 🧠 Sudoku Logic Gameplay
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- ⚡ Vite
+- 🎨 CSS3
+- 💻 JavaScript (ES6)
+
+---
+
+## 🚀 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sanskar-Sain/Sudoku-Master.git
+```
+
+Go to project folder:
+
+```bash
+cd Sudoku-Master
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+ ├── App.jsx
+ ├── App.css
+ ├── main.jsx
+
+public/
+
+package.json
+vite.config.js
+```
+
+---
+
+## 🎯 Future Improvements
+
+- ✏️ Pencil / Notes Mode
+- 🔊 Sound Effects
+- 🏆 Leaderboards
+- 📅 Daily Challenges
+- 🌐 Multiplayer Sudoku
+- ☁️ Cloud Save
+
+---
+
+## 👨‍💻 Author
+
+### Sanskar Sain
+
+---
+
+## ⭐ Support
+
+If you liked this project:
+
+- ⭐ Star the repository
+- 🍴 Fork the project
+- 📢 Share with friends
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
